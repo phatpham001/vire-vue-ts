@@ -16,7 +16,7 @@ const technicalManager = [
           import("../views/technicalManagerment/filter/filter.vue"),
       },
       {
-        path: "/import",
+        path: "import",
         name: "technical-importExel",
         component: () =>
           import("../views/technicalManagerment/importExel/importExel.vue"),
